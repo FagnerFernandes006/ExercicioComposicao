@@ -1,0 +1,15 @@
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\net6.0\ExercicioComposicao.exe
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\net6.0\ExercicioComposicao.deps.json
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\net6.0\ExercicioComposicao.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\net6.0\ExercicioComposicao.dll
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\net6.0\ExercicioComposicao.pdb
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.dll
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\refint\ExercicioComposicao.dll
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.pdb
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ExercicioComposicao.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\net6.0\ref\ExercicioComposicao.dll
