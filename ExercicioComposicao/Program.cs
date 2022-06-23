@@ -27,7 +27,7 @@ namespace ExercicioComposicao
             int n = int.Parse(Console.ReadLine());
             for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine($"Enter ##{i} item data:");
+                Console.WriteLine($"Enter #{i} item data:");
                 Console.Write("Product Name: ");
                 string nameProduct = Console.ReadLine();
                 Console.Write("Product Price: ");
